@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domail", "Domail\Domail.csproj", "{D718BF6D-2B7A-44A8-A1DC-CA6E20FC0E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{7FACB61C-ED33-4DEF-84B7-02EB96EDED2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{F31837E0-5AB4-42D5-B788-A885EE78F8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D718BF6D-2B7A-44A8-A1DC-CA6E20FC0E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D718BF6D-2B7A-44A8-A1DC-CA6E20FC0E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D718BF6D-2B7A-44A8-A1DC-CA6E20FC0E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D718BF6D-2B7A-44A8-A1DC-CA6E20FC0E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FACB61C-ED33-4DEF-84B7-02EB96EDED2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FACB61C-ED33-4DEF-84B7-02EB96EDED2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FACB61C-ED33-4DEF-84B7-02EB96EDED2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FACB61C-ED33-4DEF-84B7-02EB96EDED2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31837E0-5AB4-42D5-B788-A885EE78F8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31837E0-5AB4-42D5-B788-A885EE78F8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31837E0-5AB4-42D5-B788-A885EE78F8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31837E0-5AB4-42D5-B788-A885EE78F8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
